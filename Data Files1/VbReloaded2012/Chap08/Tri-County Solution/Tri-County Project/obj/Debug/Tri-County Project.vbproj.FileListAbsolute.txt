@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap08\Tri-County Solution\Tri-County Project\bin\Debug\Tri-County Project.exe.config
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap08\Tri-County Solution\Tri-County Project\bin\Debug\Tri-County Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap08\Tri-County Solution\Tri-County Project\bin\Debug\Tri-County Project.pdb
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap08\Tri-County Solution\Tri-County Project\bin\Debug\Tri-County Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap08\Tri-County Solution\Tri-County Project\obj\Debug\Tri_County_Project.MainForm.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap08\Tri-County Solution\Tri-County Project\obj\Debug\Tri_County_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap08\Tri-County Solution\Tri-County Project\obj\Debug\Tri-County Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap08\Tri-County Solution\Tri-County Project\obj\Debug\Tri-County Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap08\Tri-County Solution\Tri-County Project\obj\Debug\Tri-County Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap08\Tri-County Solution\Tri-County Project\obj\Debug\Tri-County Project.pdb

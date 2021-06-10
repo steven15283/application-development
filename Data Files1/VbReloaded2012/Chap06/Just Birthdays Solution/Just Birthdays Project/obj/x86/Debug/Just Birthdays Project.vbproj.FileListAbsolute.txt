@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap06\Just Birthdays Solution\Just Birthdays Project\bin\Debug\Just Birthdays Project.exe.config
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap06\Just Birthdays Solution\Just Birthdays Project\bin\Debug\Just Birthdays Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap06\Just Birthdays Solution\Just Birthdays Project\bin\Debug\Just Birthdays Project.pdb
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap06\Just Birthdays Solution\Just Birthdays Project\bin\Debug\Just Birthdays Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap06\Just Birthdays Solution\Just Birthdays Project\obj\x86\Debug\Just_Birthdays_Project.MainForm.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap06\Just Birthdays Solution\Just Birthdays Project\obj\x86\Debug\Just_Birthdays_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap06\Just Birthdays Solution\Just Birthdays Project\obj\x86\Debug\Just Birthdays Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap06\Just Birthdays Solution\Just Birthdays Project\obj\x86\Debug\Just Birthdays Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap06\Just Birthdays Solution\Just Birthdays Project\obj\x86\Debug\Just Birthdays Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap06\Just Birthdays Solution\Just Birthdays Project\obj\x86\Debug\Just Birthdays Project.pdb

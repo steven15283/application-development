@@ -1,0 +1,46 @@
+Public Class MainForm
+
+    Private Sub exitButton_Click(sender As Object, e As EventArgs) Handles exitButton.Click
+        Me.Close()
+
+    End Sub
+
+    Private Sub printButton_Click(sender As Object, e As EventArgs) Handles printButton.Click
+        PrintForm1.PrintAction = Printing.PrintAction.PrintToPreview
+        PrintForm1.Print()
+
+    End Sub
+
+    Private Sub clearButton_Click(sender As Object, e As EventArgs) Handles clearButton.Click
+        nameTextBox.Text = String.Empty
+        addressTextBox.Text = String.Empty
+        cityTextBox.Text = String.Empty
+        stateTextBox.Text = String.Empty
+        zipTextBox.Text = String.Empty
+        standardTextBox.Text = String.Empty
+        legalTextBox.Text = String.Empty
+        totalCasesLabel.Text = String.Empty
+        totalPriceLabel.Text = String.Empty
+        nameTextBox.Focus()
+
+
+    End Sub
+
+    Private Sub calcButton_Click(sender As Object, e As EventArgs) Handles calcButton.Click
+        Const PricePerCase As Double = 27.99
+        Dim standard As Integer
+        Dim legal As Integer
+        Dim totalCases As Integer
+        Dim totalPrice As Double
+
+        Integer.TryParse(standardTextBox.Text, standard)
+        Integer.TryParse(legalTextBox.Text, legal)
+
+        totalCases = standard + legal
+        totalPrice = totalCases * PricePerCase
+        totalCasesLabel.Text = Convert.ToString(totalCases)
+        totalPriceLabel.Text = totalPrice.ToString("C2")
+
+        printButton.Focus()
+    End Sub
+End Class

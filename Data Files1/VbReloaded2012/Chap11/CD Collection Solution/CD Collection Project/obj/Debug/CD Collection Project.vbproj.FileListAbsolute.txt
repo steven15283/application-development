@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\CD Collection Solution\CD Collection Project\bin\Debug\CD Collection Project.exe.config
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\CD Collection Solution\CD Collection Project\bin\Debug\CD Collection Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\CD Collection Solution\CD Collection Project\bin\Debug\CD Collection Project.pdb
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\CD Collection Solution\CD Collection Project\bin\Debug\CD Collection Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD_Collection_Project.MainForm.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD_Collection_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD Collection Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD Collection Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD Collection Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD Collection Project.pdb

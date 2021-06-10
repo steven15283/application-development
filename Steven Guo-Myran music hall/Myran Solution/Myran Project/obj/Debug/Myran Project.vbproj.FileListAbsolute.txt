@@ -1,0 +1,18 @@
+C:\Users\Steven Guo\Desktop\Steven Guo-Myran music hall\Myran Solution\Myran Project\bin\Debug\Myran Project.exe.config
+C:\Users\Steven Guo\Desktop\Steven Guo-Myran music hall\Myran Solution\Myran Project\bin\Debug\Myran Project.exe
+C:\Users\Steven Guo\Desktop\Steven Guo-Myran music hall\Myran Solution\Myran Project\bin\Debug\Myran Project.pdb
+C:\Users\Steven Guo\Desktop\Steven Guo-Myran music hall\Myran Solution\Myran Project\bin\Debug\Myran Project.xml
+C:\Users\Steven Guo\Desktop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran_Project.Form1.resources
+C:\Users\Steven Guo\Desktop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran Project.exe
+C:\Users\Steven Guo\Desktop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran Project.xml
+C:\Users\Steven Guo\Desktop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran Project.pdb
+C:\Users\Steven Guo\Desktop\application develop\Steven Guo-Myran music hall\Myran Solution\Myran Project\bin\Debug\Myran Project.exe.config
+C:\Users\Steven Guo\Desktop\application develop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran Project.exe
+C:\Users\Steven Guo\Desktop\application develop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran Project.xml
+C:\Users\Steven Guo\Desktop\application develop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran Project.pdb
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Steven Guo-Myran music hall\Myran Solution\Myran Project\bin\Debug\Myran Project.exe.config
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran Project.exe
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran Project.xml
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Steven Guo-Myran music hall\Myran Solution\Myran Project\obj\Debug\Myran Project.pdb

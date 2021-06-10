@@ -1,0 +1,14 @@
+C:\Users\Steven Guo\Desktop\application develop\Yolanda Solution\Yolanda Project\bin\Debug\Yolanda Project.exe.config
+C:\Users\Steven Guo\Desktop\application develop\Yolanda Solution\Yolanda Project\bin\Debug\Yolanda Project.exe
+C:\Users\Steven Guo\Desktop\application develop\Yolanda Solution\Yolanda Project\bin\Debug\Yolanda Project.pdb
+C:\Users\Steven Guo\Desktop\application develop\Yolanda Solution\Yolanda Project\bin\Debug\Yolanda Project.xml
+C:\Users\Steven Guo\Desktop\application develop\Yolanda Solution\Yolanda Project\obj\Debug\Yolanda_Project.Form1.resources
+C:\Users\Steven Guo\Desktop\application develop\Yolanda Solution\Yolanda Project\obj\Debug\Yolanda_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\application develop\Yolanda Solution\Yolanda Project\obj\Debug\Yolanda Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\application develop\Yolanda Solution\Yolanda Project\obj\Debug\Yolanda Project.exe
+C:\Users\Steven Guo\Desktop\application develop\Yolanda Solution\Yolanda Project\obj\Debug\Yolanda Project.xml
+C:\Users\Steven Guo\Desktop\application develop\Yolanda Solution\Yolanda Project\obj\Debug\Yolanda Project.pdb
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Yolanda Solution\Yolanda Project\bin\Debug\Yolanda Project.exe.config
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Yolanda Solution\Yolanda Project\obj\Debug\Yolanda Project.exe
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Yolanda Solution\Yolanda Project\obj\Debug\Yolanda Project.xml
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Yolanda Solution\Yolanda Project\obj\Debug\Yolanda Project.pdb

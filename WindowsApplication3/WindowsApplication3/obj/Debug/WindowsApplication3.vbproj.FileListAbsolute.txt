@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb

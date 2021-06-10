@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap04\Greenview Solution\Greenview Project\bin\Debug\Greenview Project.exe.config
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap04\Greenview Solution\Greenview Project\bin\Debug\Greenview Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap04\Greenview Solution\Greenview Project\bin\Debug\Greenview Project.pdb
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap04\Greenview Solution\Greenview Project\bin\Debug\Greenview Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap04\Greenview Solution\Greenview Project\obj\Debug\Greenview_Project.MainForm.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap04\Greenview Solution\Greenview Project\obj\Debug\Greenview_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap04\Greenview Solution\Greenview Project\obj\Debug\Greenview Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap04\Greenview Solution\Greenview Project\obj\Debug\Greenview Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap04\Greenview Solution\Greenview Project\obj\Debug\Greenview Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap04\Greenview Solution\Greenview Project\obj\Debug\Greenview Project.pdb

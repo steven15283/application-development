@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\FICA Solution\FICA Project\bin\Debug\FICA Project.exe.config
+C:\Users\Steven Guo\Desktop\FICA Solution\FICA Project\obj\Debug\FICA_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\FICA Solution\FICA Project\obj\Debug\FICA Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\FICA Solution\FICA Project\obj\Debug\FICA_Project.Form1.resources
+C:\Users\Steven Guo\Desktop\FICA Solution\FICA Project\bin\Debug\FICA Project.exe
+C:\Users\Steven Guo\Desktop\FICA Solution\FICA Project\bin\Debug\FICA Project.pdb
+C:\Users\Steven Guo\Desktop\FICA Solution\FICA Project\bin\Debug\FICA Project.xml
+C:\Users\Steven Guo\Desktop\FICA Solution\FICA Project\obj\Debug\FICA Project.exe
+C:\Users\Steven Guo\Desktop\FICA Solution\FICA Project\obj\Debug\FICA Project.xml
+C:\Users\Steven Guo\Desktop\FICA Solution\FICA Project\obj\Debug\FICA Project.pdb

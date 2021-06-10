@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\Kenton Project\Kenton Solution\bin\Debug\Kenton Solution.exe.config
+C:\Users\Steven Guo\Desktop\Kenton Project\Kenton Solution\bin\Debug\Kenton Solution.exe
+C:\Users\Steven Guo\Desktop\Kenton Project\Kenton Solution\bin\Debug\Kenton Solution.pdb
+C:\Users\Steven Guo\Desktop\Kenton Project\Kenton Solution\bin\Debug\Kenton Solution.xml
+C:\Users\Steven Guo\Desktop\Kenton Project\Kenton Solution\obj\Debug\Kenton_Solution.Form1.resources
+C:\Users\Steven Guo\Desktop\Kenton Project\Kenton Solution\obj\Debug\Kenton_Solution.Resources.resources
+C:\Users\Steven Guo\Desktop\Kenton Project\Kenton Solution\obj\Debug\Kenton Solution.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\Kenton Project\Kenton Solution\obj\Debug\Kenton Solution.exe
+C:\Users\Steven Guo\Desktop\Kenton Project\Kenton Solution\obj\Debug\Kenton Solution.xml
+C:\Users\Steven Guo\Desktop\Kenton Project\Kenton Solution\obj\Debug\Kenton Solution.pdb

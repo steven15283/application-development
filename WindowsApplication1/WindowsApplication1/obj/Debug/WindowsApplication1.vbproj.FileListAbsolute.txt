@@ -1,0 +1,14 @@
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Steven Guo\Desktop\application develop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

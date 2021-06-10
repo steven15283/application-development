@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\Shopper Solution\Shopper Project\bin\Debug\Shopper Project.exe.config
+C:\Users\Steven Guo\Desktop\Shopper Solution\Shopper Project\bin\Debug\Shopper Project.exe
+C:\Users\Steven Guo\Desktop\Shopper Solution\Shopper Project\bin\Debug\Shopper Project.pdb
+C:\Users\Steven Guo\Desktop\Shopper Solution\Shopper Project\bin\Debug\Shopper Project.xml
+C:\Users\Steven Guo\Desktop\Shopper Solution\Shopper Project\obj\Debug\Shopper_Project.Form1.resources
+C:\Users\Steven Guo\Desktop\Shopper Solution\Shopper Project\obj\Debug\Shopper_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\Shopper Solution\Shopper Project\obj\Debug\Shopper Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\Shopper Solution\Shopper Project\obj\Debug\Shopper Project.exe
+C:\Users\Steven Guo\Desktop\Shopper Solution\Shopper Project\obj\Debug\Shopper Project.xml
+C:\Users\Steven Guo\Desktop\Shopper Solution\Shopper Project\obj\Debug\Shopper Project.pdb

@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap10\Bucky Burgers Solution\Bucky Burgers Project\bin\Debug\Bucky Burgers Project.exe.config
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap10\Bucky Burgers Solution\Bucky Burgers Project\bin\Debug\Bucky Burgers Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap10\Bucky Burgers Solution\Bucky Burgers Project\bin\Debug\Bucky Burgers Project.pdb
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap10\Bucky Burgers Solution\Bucky Burgers Project\bin\Debug\Bucky Burgers Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\Bucky_Burgers_Project.MainForm.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\Bucky_Burgers_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\Bucky Burgers Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\Bucky Burgers Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\Bucky Burgers Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\Bucky Burgers Project.pdb

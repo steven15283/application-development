@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap05\Charleston Cable Solution\Charleston Cable Project\bin\Debug\Charleston Cable Project.exe.config
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap05\Charleston Cable Solution\Charleston Cable Project\obj\x86\Debug\Charleston_Cable_Project.MainForm.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap05\Charleston Cable Solution\Charleston Cable Project\obj\x86\Debug\Charleston_Cable_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap05\Charleston Cable Solution\Charleston Cable Project\obj\x86\Debug\Charleston Cable Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap05\Charleston Cable Solution\Charleston Cable Project\bin\Debug\Charleston Cable Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap05\Charleston Cable Solution\Charleston Cable Project\bin\Debug\Charleston Cable Project.pdb
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap05\Charleston Cable Solution\Charleston Cable Project\bin\Debug\Charleston Cable Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap05\Charleston Cable Solution\Charleston Cable Project\obj\x86\Debug\Charleston Cable Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap05\Charleston Cable Solution\Charleston Cable Project\obj\x86\Debug\Charleston Cable Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap05\Charleston Cable Solution\Charleston Cable Project\obj\x86\Debug\Charleston Cable Project.pdb

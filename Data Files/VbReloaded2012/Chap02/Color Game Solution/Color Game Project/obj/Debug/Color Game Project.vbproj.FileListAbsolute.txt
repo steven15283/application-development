@@ -1,0 +1,12 @@
+C:\Users\Steven Guo\Desktop\Color Game Solution\Color Game Project\bin\Debug\Color Game Project.exe.config
+C:\Users\Steven Guo\Desktop\application develop\Data Files\VbReloaded2012\Chap02\Color Game Solution\Color Game Project\obj\Debug\Color_Game_Project.MainForm.resources
+C:\Users\Steven Guo\Desktop\application develop\Data Files\VbReloaded2012\Chap02\Color Game Solution\Color Game Project\obj\Debug\Color_Game_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\application develop\Data Files\VbReloaded2012\Chap02\Color Game Solution\Color Game Project\obj\Debug\Color Game Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\application develop\Data Files\VbReloaded2012\Chap02\Color Game Solution\Color Game Project\bin\Debug\Color Game.exe.config
+C:\Users\Steven Guo\Desktop\application develop\Data Files\VbReloaded2012\Chap02\Color Game Solution\Color Game Project\bin\Debug\Color Game.exe
+C:\Users\Steven Guo\Desktop\application develop\Data Files\VbReloaded2012\Chap02\Color Game Solution\Color Game Project\bin\Debug\Color Game.pdb
+C:\Users\Steven Guo\Desktop\application develop\Data Files\VbReloaded2012\Chap02\Color Game Solution\Color Game Project\bin\Debug\Color Game.xml
+C:\Users\Steven Guo\Desktop\application develop\Data Files\VbReloaded2012\Chap02\Color Game Solution\Color Game Project\obj\Debug\Color_Game_Project.SplashScreenForm.resources
+C:\Users\Steven Guo\Desktop\application develop\Data Files\VbReloaded2012\Chap02\Color Game Solution\Color Game Project\obj\Debug\Color Game.exe
+C:\Users\Steven Guo\Desktop\application develop\Data Files\VbReloaded2012\Chap02\Color Game Solution\Color Game Project\obj\Debug\Color Game.xml
+C:\Users\Steven Guo\Desktop\application develop\Data Files\VbReloaded2012\Chap02\Color Game Solution\Color Game Project\obj\Debug\Color Game.pdb

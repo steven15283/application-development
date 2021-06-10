@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\Employee List Solution\Employee List Project\bin\Debug\Employee List Project.exe.config
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\Employee List Solution\Employee List Project\bin\Debug\Employee List Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\Employee List Solution\Employee List Project\bin\Debug\Employee List Project.pdb
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\Employee List Solution\Employee List Project\bin\Debug\Employee List Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\Employee List Solution\Employee List Project\obj\Debug\Employee_List_Project.MainForm.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\Employee List Solution\Employee List Project\obj\Debug\Employee_List_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\Employee List Solution\Employee List Project\obj\Debug\Employee List Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\Employee List Solution\Employee List Project\obj\Debug\Employee List Project.exe
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\Employee List Solution\Employee List Project\obj\Debug\Employee List Project.xml
+C:\Users\Steven Guo\Desktop\Data Files\VbReloaded2012\Chap11\Employee List Solution\Employee List Project\obj\Debug\Employee List Project.pdb

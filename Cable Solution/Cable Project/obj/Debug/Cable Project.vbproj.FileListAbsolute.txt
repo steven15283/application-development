@@ -1,0 +1,24 @@
+C:\Users\Steven Guo\Desktop\application develop\Cable Solution\Cable Project\bin\Debug\Cable Project.exe.config
+C:\Users\Steven Guo\Desktop\application develop\Cable Solution\Cable Project\bin\Debug\Cable Project.exe
+C:\Users\Steven Guo\Desktop\application develop\Cable Solution\Cable Project\bin\Debug\Cable Project.pdb
+C:\Users\Steven Guo\Desktop\application develop\Cable Solution\Cable Project\bin\Debug\Cable Project.xml
+C:\Users\Steven Guo\Desktop\application develop\Cable Solution\Cable Project\obj\Debug\Cable_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\application develop\Cable Solution\Cable Project\obj\Debug\Cable Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\application develop\Cable Solution\Cable Project\obj\Debug\Cable Project.exe
+C:\Users\Steven Guo\Desktop\application develop\Cable Solution\Cable Project\obj\Debug\Cable Project.xml
+C:\Users\Steven Guo\Desktop\application develop\Cable Solution\Cable Project\obj\Debug\Cable Project.pdb
+C:\Users\Steven Guo\Desktop\application develop\Cable Solution\Cable Project\obj\Debug\Cable_Project.Form.resources
+C:\Users\Steven Guo\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\bin\Debug\Cable Project.exe.config
+C:\Users\Steven Guo\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\obj\Debug\Cable Project.exe
+C:\Users\Steven Guo\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\obj\Debug\Cable Project.xml
+C:\Users\Steven Guo\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\obj\Debug\Cable Project.pdb
+C:\Users\Steven Guo\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\bin\Debug\Cable Project.exe
+C:\Users\Steven Guo\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\bin\Debug\Cable Project.pdb
+C:\Users\Steven Guo\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\bin\Debug\Cable Project.xml
+C:\Users\Steven Guo\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\obj\Debug\Cable_Project.Form.resources
+C:\Users\Steven Guo\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\obj\Debug\Cable_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\obj\Debug\Cable Project.vbproj.GenerateResource.Cache
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\bin\Debug\Cable Project.exe.config
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\obj\Debug\Cable Project.exe
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\obj\Debug\Cable Project.xml
+D:\Users\Steven\Desktop\Semo\semo fall2015-spring2016\application develop\Cable Solution\Cable Project\obj\Debug\Cable Project.pdb

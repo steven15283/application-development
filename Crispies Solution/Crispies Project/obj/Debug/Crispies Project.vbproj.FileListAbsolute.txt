@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\application develop\Crispies Solution\Crispies Project\bin\Debug\Crispies Project.exe.config
+C:\Users\Steven Guo\Desktop\application develop\Crispies Solution\Crispies Project\bin\Debug\Crispies Project.exe
+C:\Users\Steven Guo\Desktop\application develop\Crispies Solution\Crispies Project\bin\Debug\Crispies Project.pdb
+C:\Users\Steven Guo\Desktop\application develop\Crispies Solution\Crispies Project\bin\Debug\Crispies Project.xml
+C:\Users\Steven Guo\Desktop\application develop\Crispies Solution\Crispies Project\obj\Debug\Crispies_Project.Form1.resources
+C:\Users\Steven Guo\Desktop\application develop\Crispies Solution\Crispies Project\obj\Debug\Crispies_Project.Resources.resources
+C:\Users\Steven Guo\Desktop\application develop\Crispies Solution\Crispies Project\obj\Debug\Crispies Project.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\application develop\Crispies Solution\Crispies Project\obj\Debug\Crispies Project.exe
+C:\Users\Steven Guo\Desktop\application develop\Crispies Solution\Crispies Project\obj\Debug\Crispies Project.xml
+C:\Users\Steven Guo\Desktop\application develop\Crispies Solution\Crispies Project\obj\Debug\Crispies Project.pdb

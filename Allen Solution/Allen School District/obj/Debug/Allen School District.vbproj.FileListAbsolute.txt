@@ -1,0 +1,10 @@
+C:\Users\Steven Guo\Desktop\application develop\Allen School District Solution\Allen School District\bin\Debug\Allen School District.exe.config
+C:\Users\Steven Guo\Desktop\application develop\Allen School District Solution\Allen School District\bin\Debug\Allen School District.exe
+C:\Users\Steven Guo\Desktop\application develop\Allen School District Solution\Allen School District\bin\Debug\Allen School District.pdb
+C:\Users\Steven Guo\Desktop\application develop\Allen School District Solution\Allen School District\bin\Debug\Allen School District.xml
+C:\Users\Steven Guo\Desktop\application develop\Allen School District Solution\Allen School District\obj\Debug\Allen_School_District.principalName.resources
+C:\Users\Steven Guo\Desktop\application develop\Allen School District Solution\Allen School District\obj\Debug\Allen_School_District.Resources.resources
+C:\Users\Steven Guo\Desktop\application develop\Allen School District Solution\Allen School District\obj\Debug\Allen School District.vbproj.GenerateResource.Cache
+C:\Users\Steven Guo\Desktop\application develop\Allen School District Solution\Allen School District\obj\Debug\Allen School District.exe
+C:\Users\Steven Guo\Desktop\application develop\Allen School District Solution\Allen School District\obj\Debug\Allen School District.xml
+C:\Users\Steven Guo\Desktop\application develop\Allen School District Solution\Allen School District\obj\Debug\Allen School District.pdb
